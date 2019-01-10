@@ -1,4 +1,4 @@
-# berlin-district-stl
+# Berlin District STL Files
 3D printing shapes (STL) of all Berlin districts
 
 
